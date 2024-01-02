@@ -1,0 +1,11 @@
+[map]
+
+[map.vsvi]
+full = "vscode vim plugin"
+url = "https://github.com/VSCodeVim/Vim"
+rep = "https://github.com/VSCodeVim/Vim"
+
+[map.vsth]
+full = "vscode themes"
+url = "https://vscodethemes.com/"
+search = "https://vscodethemes.com/?text={}"

@@ -1,0 +1,36 @@
+[map]
+
+[map.npm]
+url = "https://www.npmjs.com/"
+search = "https://www.npmjs.com/search?q={}"
+
+[map.pn]
+full = "pnpm"
+url = "https://pnpm.io/motivation"
+rep = "https://github.com/pnpm/pnpm"
+
+[map.ts]
+full = "typescript"
+url = "https://www.typescriptlang.org/docs/"
+play = "https://www.typescriptlang.org/play"
+
+[map.vue]
+url = "https://vuejs.org/api/"
+rep = "https://github.com/vuejs/"
+play = "https://play.vuejs.org/"
+
+[map.uno]
+full = "unocss"
+url = "https://unocss.dev/interactive/"
+rep = "https://github.com/unocss/unocss"
+play = "https://unocss.dev/play/"
+
+[map.icf]
+full = "iconify"
+url = "https://icon-sets.iconify.design/"
+rep = "https://github.com/iconify"
+search = "https://icon-sets.iconify.design/?query={}"
+
+[map.mdn]
+url = "https://developer.mozilla.org/en-US/"
+search = "https://developer.mozilla.org/en-US/search?q={}"

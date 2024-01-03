@@ -1,11 +1,13 @@
-[map]
-
 [map.rs]
 full = "rust"
 url = "https://doc.rust-lang.org"
 search = "https://doc.rust-lang.org/std/index.html?search={}"
 play = "https://play.rust-lang.org/"
 rep = "https://github.com/rust-lang/rust"
+
+[map.dcf]
+full = "doc config"
+url = "https://github.com/wangxdmm/doc_config"
 
 [map.rsb]
 full = "rustbook"
@@ -16,7 +18,7 @@ rep = "https://github.com/rust-lang/book"
 [map.cr]
 full = "crates"
 url = "https://crates.io/"
-search = "https://crates.io/crates/{}"
+search = "https://crates.io/search?q={}"
 
 [map.npm]
 url = "https://www.npmjs.com/"

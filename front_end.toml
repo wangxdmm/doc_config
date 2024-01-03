@@ -1,5 +1,3 @@
-[map]
-
 [map.npm]
 url = "https://www.npmjs.com/"
 search = "https://www.npmjs.com/search?q={}"

@@ -1,5 +1,3 @@
-[map]
-
 [map.vsvi]
 full = "vscode vim plugin"
 url = "https://github.com/VSCodeVim/Vim"

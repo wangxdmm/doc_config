@@ -62,3 +62,7 @@ url = "https://apps.timwhitlock.info/emoji/tables/unicode"
 [map.tom]
 full = "tomal"
 url = "https://toml.io/en/v1.0.0"
+
+[map.clashv]
+full = "clash-verge-rev"
+url = "https://clash-verge-rev.github.io/guide.html"

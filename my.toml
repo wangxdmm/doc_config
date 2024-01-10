@@ -66,3 +66,8 @@ url = "https://toml.io/en/v1.0.0"
 [map.clashv]
 full = "clash-verge-rev"
 url = "https://clash-verge-rev.github.io/guide.html"
+
+[map.ech]
+full = "echarts"
+url = "https://echarts.apache.org/en/index.html"
+play = "https://echarts.apache.org/examples/en/index.html"

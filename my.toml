@@ -76,3 +76,13 @@ play = "https://echarts.apache.org/examples/en/index.html"
 full = "dayjs"
 url = "https://day.js.org/docs/en/installation/installation"
 req = "https://github.com/iamkun/dayjs/"
+
+[map.trabd]
+full = "baidu translate"
+url = "https://fanyi.baidu.com/#en/zh/"
+search = "https://fanyi.baidu.com/#en/zh/{}"
+
+[map.trasg]
+full = "sougou translate"
+url = "https://fanyi.sogou.com/text"
+search = "https://fanyi.sogou.com/text?keyword={}"

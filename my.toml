@@ -71,3 +71,8 @@ url = "https://clash-verge-rev.github.io/guide.html"
 full = "echarts"
 url = "https://echarts.apache.org/en/index.html"
 play = "https://echarts.apache.org/examples/en/index.html"
+
+[map.dayjs]
+full = "dayjs"
+url = "https://day.js.org/docs/en/installation/installation"
+req = "https://github.com/iamkun/dayjs/"
